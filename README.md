@@ -53,4 +53,4 @@ The pipeline uses the **TensorFlow Flower Photos** dataset:
 
 1. **Install dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt 
