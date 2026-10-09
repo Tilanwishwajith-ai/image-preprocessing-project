@@ -16,7 +16,7 @@ This project implements:
 
 ---
 
-## 📊 Dataset Details
+## 📊 Dataset Details 
 
 The pipeline uses the **TensorFlow Flower Photos** dataset:
 - **Total Images**: 3,670 color images
