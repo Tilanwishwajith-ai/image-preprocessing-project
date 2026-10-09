@@ -3,7 +3,7 @@
 An end-to-end Computer Vision project demonstrating image preprocessing pipelines, dataset batch streaming, and Convolutional Neural Network (CNN) classification built with Python and TensorFlow.
 
 ---
-
+ 
 ## 📌 Project Overview
 
 Raw real-world image datasets are inherently messy: photos come in varying aspect ratios, disparate resolutions, and integer-encoded color values ranging between [0, 255]. Deep learning models require homogeneous tensor inputs and normalized numerical distributions to achieve stable gradient descent.
