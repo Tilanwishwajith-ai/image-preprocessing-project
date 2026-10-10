@@ -1,4 +1,4 @@
-# Image Preprocessing & Flower Classifier 
+ # Image Preprocessing & Flower Classifier 
 
 An end-to-end Computer Vision project demonstrating image preprocessing pipelines, dataset batch streaming, and Convolutional Neural Network (CNN) classification built with Python and TensorFlow.
 
@@ -15,7 +15,7 @@ This project implements:
 4. **Live Inference**: Visualizing predictions against unseen validation samples with Softmax confidence scoring.
 
 ---
-
+  
 ## 📊 Dataset Details 
 
 The pipeline uses the **TensorFlow Flower Photos** dataset:
