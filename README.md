@@ -15,7 +15,7 @@ This project implements:
 4. **Live Inference**: Visualizing predictions against unseen validation samples with Softmax confidence scoring.
 
 ---
-  
+   
 ## 📊 Dataset Details 
 
 The pipeline uses the **TensorFlow Flower Photos** dataset:
