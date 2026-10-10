@@ -1,4 +1,4 @@
-# Image Preprocessing & Flower Classifier
+# Image Preprocessing & Flower Classifier 
 
 An end-to-end Computer Vision project demonstrating image preprocessing pipelines, dataset batch streaming, and Convolutional Neural Network (CNN) classification built with Python and TensorFlow.
 
